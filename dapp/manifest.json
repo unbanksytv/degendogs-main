@@ -1,10 +1,10 @@
 {
     "background_color": "#fff",
     "display": "standalone",
-    "homepage_url": "https://degendogs.club",
+    "homepage_url": "https://livethelife.tv",
     "providedBy": {
-        "name": "Degen Dogs Club",
-        "url": "https://degendogs.club"
+        "name": "Degen Vibes Club",
+        "url": "https://livethelife.tv"
     },
     "icons": [
         {
@@ -21,11 +21,11 @@
         }
     ],
     "orientation": "portrait",
-    "name": "Degen Dogs",
+    "name": "Degen Vibes",
     "description": "NFTs that do DeFi",
     "iconPath": "/images/256x256.png",
-    "short_name": "Degen Dogs",
+    "short_name": "Degen Vibes",
     "start_url": ".",
     "theme_color": "#ff007a",
-    "skylink": "AQDi7kfrOGrFnN1x2oTMv65js0IGTXErqIi8Enq8DPQoZA"
+    "skylink": ""
 }
